@@ -1,0 +1,16 @@
+Package: BSgenome.Dpulex.JGI.dpulex
+Title: Full genome sequences for Daphnia pulex TCO (JGI v1.0)
+Description: Full genome sequence for Daphnia pulex (clone TCO) as provided by JGI and Indiana University
+Version: 1.1
+organism: Daphnia pulex
+species: Waterflea
+provider: JGI
+provider_version: dpulex
+release_date: April. 2011
+release_name: Daphnia Genomics Consortium Daphnia pulex assembly v1.1
+source_url: NA
+organism_biocview: dpulex
+BSgenomeObjname: dpulex
+seqfiles_suffix: .fa
+seqs_srcdir: /home/rtraborn/R/x86_64-redhat-linux-gnu-library/3.1/BSgenome/extdata/d_pulex_seqs
+seqnames: names(fasta.info("/home/rtraborn/R/x86_64-redhat-linux-gnu-library/3.1/BSgenome/extdata/dpulex.fa"))
